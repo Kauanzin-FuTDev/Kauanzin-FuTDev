@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... the community
 - 📫 How to reach me ...  via email
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm lernning english and python. I LOVED Cesar school coleged ,therefore i intend to enroll in this college
 
 <!---
