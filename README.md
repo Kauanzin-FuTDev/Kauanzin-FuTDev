@@ -11,8 +11,8 @@ Tenho experiência com **C# (.NET)**, **Java**, **Python** e **MySQL**, aplicand
 
 * 🎯 Gosto de trabalhar com backend e arquitetura de software
 * 🧠 Estudando Full Stack e Inteligência Artificial
-* ⚙️ Apaixonado boas práticas de código
-* 💬 Sempre aberto a trocar ideias sobre tecnologia e aprendizado contínuo
+* ⚙️ Gosto de fazer tudo um pouco
+* 💬 Estou sempre me aperfeiçoando em diversas áreas
 
 ---
 
